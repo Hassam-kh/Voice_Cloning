@@ -3,6 +3,7 @@ Real Time Voice Cloning. Where you can clone anyone's voice and get response in 
 
 # Libraries
 librosa==0.8.1 <br> 
+Kindly go through requirements.txt <br>
 %tensorflow_version 1.x <br>
 **Kindly restart the kernel after installing librosa correct version.** 
 
